@@ -60,7 +60,7 @@ const Login = () => {
             />
           </div>
           <div className="p-5">
-            <p>Made with passion by Simon😎🚀</p>
+            <p style={"color:white"}>Made with passion by Simon😎🚀</p>
           </div>
         </div>
       </div>
